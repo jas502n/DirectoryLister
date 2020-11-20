@@ -1,3 +1,4 @@
+![](./dir.png)
 <p align="center">
     <img src="directory-lister.svg" alt="Directory Lister" width="66%">
 </p>
